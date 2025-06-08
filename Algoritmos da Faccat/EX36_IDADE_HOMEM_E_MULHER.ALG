@@ -10,7 +10,7 @@ Var
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
- Escreval("Programa que calcula as idades dos mais velos e mais novos.")
+ Escreval("Programa que calcula as idades dos mais velhos e mais novos.")
    Escreval("")
    Escreval("Digite a idade do primeiro homem:")
    Leia (idade1_homem)
